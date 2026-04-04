@@ -2,6 +2,7 @@
 *.rpyb
 *.rpyc
 *.psd
+*.bak
 firstrun
 DDLCModTemplate-*.*.*.zip
 log.txt
@@ -15,3 +16,4 @@ __pycache__
 ZIPs
 .venv
 .vscode
+*.zip
